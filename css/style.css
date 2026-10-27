@@ -40,3 +40,13 @@ table{
 tr{
    border: 10px, black;
 }
+form{
+    padding: 20px;
+}
+
+button{
+    margin: 20px; 
+}
+address{
+    padding: 20px;
+}
