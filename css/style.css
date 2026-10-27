@@ -29,3 +29,14 @@ img{
     width: 60%;
 
 }
+
+table{
+
+    margin: 20px, black;
+    text-align: center;
+    padding: 20px;
+    border: 20px;
+}
+tr{
+   border: 10px, black;
+}
