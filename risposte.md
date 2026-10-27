@@ -1,0 +1,1 @@
+2. Quando l'utente digita l'indirizzo del mio sito manda una richiesta http al server per vedere quella pagina, il server vede la richiesta e interpreta la pagina in php poi il seerver manda tramite protocollo http response il permesso di accedere al client, che finalmente vede la pagina web
